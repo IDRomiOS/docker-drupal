@@ -2,9 +2,6 @@
 
 $options['show-passwords'] = 1;
 $options['default-major'] = 7;
-$options['gitsubmodule'] = TRUE;
-$options['package-handler'] = 'git_drupalorg';
-
 $options['structure-tables']['common'] = array(
   'cache',
   'cache_bootstrap',
